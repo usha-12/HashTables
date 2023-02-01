@@ -28,8 +28,8 @@ public class MapNode<K, V> implements INode<K> {
     }
 
     @Override
-    public void setnext(INode<K> next) {
-        this.next = (MapNode<K, V>) next;
+    public void setNext(INode<K> next) {
+
     }
 
     public V getValue() {

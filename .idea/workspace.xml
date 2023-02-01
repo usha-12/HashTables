@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6544093e-2db3-4e6e-bd12-f86c18ae82d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/brideglabz/hashtables/LinkedHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/brideglabz/hashtables/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/hashtables/HashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/brideglabz/hashtables/INode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/hashtables/INode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/hashtables/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/hashtables/LinkedHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/hashtables/LinkedHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/brideglabz/hashtables/MapNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/hashtables/MapNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/brideglabz/hashtables/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/brideglabz/hashtables/MyHashMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
