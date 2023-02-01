@@ -28,6 +28,11 @@ public class Node<K> implements INode<K> {
         return next;
     }
 
+    @Override
+    public void setnext(INode<K> next) {
+
+    }
+
     public void setNext(INode<K> next) {
         this.next = next;
     }
